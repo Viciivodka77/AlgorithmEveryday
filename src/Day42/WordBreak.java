@@ -56,8 +56,7 @@ public class WordBreak {
         dp[0] = true;
         for (int i = 1; i <= len; i++) {
             for (int j = i; j >= 0; j--) {
-                String word = s.substring(j,i);
-                if (dp[j] && wordSet.contains(word)  ){//判断是否在wordDict
+                if (dp[j] && wordSet.contains(s.substring(j,i))  ){//判断是否在wordDict
                     dp[i] = true;
                     break;
                 }
