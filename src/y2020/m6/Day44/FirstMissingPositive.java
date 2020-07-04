@@ -1,4 +1,4 @@
-package Day44;
+package y2020.m6.Day44;
 
 public class FirstMissingPositive {
     public static int firstMissingPositive(int[] nums) {

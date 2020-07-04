@@ -1,7 +1,6 @@
-package Day47;
+package y2020.m6.Day47;
 
 import java.util.LinkedList;
-import java.util.Stack;
 
 /*
 剑指 Offer 09. 用两个栈实现队列

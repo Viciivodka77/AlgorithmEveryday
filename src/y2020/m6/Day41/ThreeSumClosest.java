@@ -1,4 +1,4 @@
-package Day41;
+package y2020.m6.Day41;
 
 import java.util.Arrays;
 

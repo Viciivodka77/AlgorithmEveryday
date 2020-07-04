@@ -1,4 +1,4 @@
-package Day43;
+package y2020.m6.Day43;
 /*
 
 面试题 02.01. 移除重复节点

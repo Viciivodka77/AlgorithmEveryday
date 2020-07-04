@@ -1,4 +1,4 @@
-package Day42;
+package y2020.m6.Day42;
 /*
 139. 单词拆分
 给定一个非空字符串 s 和一个包含非空单词列表的字典 wordDict，
